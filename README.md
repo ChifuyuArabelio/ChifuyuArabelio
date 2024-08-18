@@ -1,5 +1,5 @@
 ## ¡Hola! ¿Qué Tal?
-Hello, My name is Chifuyu Arabelio, and I am a software developer with over 15 years of experience. I`m also an avid mountain climber, which I find both challenging and rewarding.
+Hello, My name is Chifuyu Arabelio, and I am a software developer with over 15 years of experience. I`m also an avid mountain climber, which I find both challenging and rewarding. I have the logest experience with Objective-C(MRC/ARC), having been involved in app development since developers could first release apps on the iPhone.
 
 ### 🔭 I’m currently working as
 a full-stack engineer on a project that involves developing both mobile and web applications aimed at streamlining business processes.
