@@ -10,7 +10,7 @@ This diverse technology stack allows us to create robust, scalable applications 
 
 Thank you for reading🌷
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChifuyuArabelio&bg_color=f4a4c0&color=ffffff&line=e63b7a&point=2c1376&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChifuyuArabelio&bg_color=f4a4c0&color=e63b7a&line=e63b7a&point=2c1376&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **ChifuyuArabelio/ChifuyuArabelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
