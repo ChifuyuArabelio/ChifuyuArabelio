@@ -1,12 +1,12 @@
 ## ¡Hola! ¿Qué Tal?
-Hello, My name is Chifuyu Arabelio, and I am a software developer with over 15 years of experience. I`m also an avid mountain climber, which I find both challenging and rewarding. I have the logest experience with Objective-C(MRC/ARC), having been involved in app development since developers could first release apps on the iPhone.
+Hello! My name is Chifuyu Ara Belío, and I am a software developer with over 15 years of experience. I'm also an avid mountain climber, which I find both challenging and rewarding. I started programming when I took a programming course in college, where I learned the C and Java languages. In 2004, I created a Windows Desktop Application using C# in Visual Studio 2003 Academic Edition on my own. I have the longest experience with Objective-C, having been involved in app development since developers could first release apps on the iPhone.
 
 ### 🔭 I’m currently working as
 a full-stack engineer on a project that involves developing both mobile and web applications aimed at streamlining business processes.
 
-My role inclues handling server side logic using Python, PHP, and SQL, as well as client side development with a range of languages including Objective-C, Dart, C#, Android Java, and Swift.
+My role includes handling server-side logic using Python, PHP, and SQL, as well as client-side development with a range of languages including Objective-C, Flutter, C#, Java, and Swift.
 
-This diverse technology stack allows us to create robust, scalable applications tailored to our clients needs.
+This diverse technology stack allows us to create robust, scalable applications tailored to our clients' needs.
 
 Thank you for reading🌷
 
