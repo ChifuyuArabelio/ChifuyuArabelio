@@ -10,23 +10,9 @@ This diverse technology stack allows us to create robust, scalable applications 
 
 Thank you for reading🌷
 
-<p align="center">
-  <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo.png" alt="external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-color-tal-revivo"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/xcode.png" alt="xcode"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
-  <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo.png" alt="external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo"/>
-  <img width="30" height="30" src="https://img.icons8.com/fluency/48/atom-editor.png" alt="atom-editor"/>
-  <img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo.png" alt="external-sublime-text-a-sophisticated-text-editor-for-code-markup-language-logo-color-tal-revivo"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/pycharm--v2.png" alt="pycharm--v2"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
-  <img width="30" height="30" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
-  <img width="30" height="30" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-  <img width="30" height="30" src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db"/>
-  <img width="30" height="30" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
-  <img width="30" height="30" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,atom,bash,cs,cpp,dart,docker,dotnet,eclipse,elasticsearch,flask,flutter,git,github,java,js,linux,md,mysql,nginx,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,vim,visualstudio,vscode&theme=dark)](https://skillicons.dev)
+
+## Contribution
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChifuyuArabelio&bg_color=f4a4c0&color=e63b7a&line=e63b7a&point=2c1376&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
