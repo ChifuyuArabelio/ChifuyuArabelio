@@ -10,17 +10,12 @@ This diverse technology stack allows us to create robust, scalable applications 
 
 Thank you for reading🌷
 
-## Skillicons
-
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,figma,flask,flutter,git,html,java,js,linux,mysql,nginx,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,vim,visualstudio,vscode,wordpress&theme=dark)](https://skillicons.dev)
+> [!TIP]
+> [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,figma,flask,flutter,git,html,java,js,linux,mysql,nginx,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,vim,visualstudio,vscode,wordpress&theme=dark)](https://skillicons.dev)
 
 ## Contribution
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChifuyuArabelio&bg_color=f4a4c0&color=e63b7a&line=e63b7a&point=2c1376&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Connect with me
-<a href="https://www.facebook.com/profile.php?id=61550018484270"><img width="48" height="48" src="https://img.icons8.com/nolan/64/facebook-new.png" alt="Facebook"/></a>
-<a href="https://twitter.com/ChifuyuArabelio"><img width="48" height="48" src="https://img.icons8.com/nolan/64/twitter.png" alt="Twitter"/></a>
 
 <!--
 **ChifuyuArabelio/ChifuyuArabelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
