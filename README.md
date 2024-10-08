@@ -10,8 +10,8 @@ This diverse technology stack allows us to create robust, scalable applications 
 
 Thank you for reading🌷
 
-> [!TIP]
-> [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,figma,flask,flutter,git,html,java,js,linux,mysql,nginx,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,vim,visualstudio,vscode,wordpress&theme=dark)](https://skillicons.dev)
+> [!NOTE]
+> [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,emacs,flask,flutter,git,html,java,js,linux,mysql,nginx,ps,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,vim,visualstudio,vscode,ubuntu,wordpress,xd&theme=dark)](https://skillicons.dev)
 
 ## Contribution
 
