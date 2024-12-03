@@ -15,7 +15,7 @@ Thank you for reading🌷
 
 ## Contribution
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChifuyuArabelio&bg_color=f4a4c0&color=e63b7a&line=e63b7a&point=2c1376&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChifuyuArabelio&bg_color=0e1015&color=9298a0&line=6bd063&point=ffffff&area_color=2e6b37&hide_title=true&area=true&days=31)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **ChifuyuArabelio/ChifuyuArabelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
