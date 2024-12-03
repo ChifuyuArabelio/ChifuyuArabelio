@@ -1,5 +1,5 @@
 ## About me
-¡Hola! ¿Qué Tal? My name is Chifuyu Ara Belío, and I am a software developer with over 15 years of experience. I'm also an avid mountain climber, which I find both challenging and rewarding. I started programming when I took a programming course in college, where I learned the C and Java languages. In 2004, I created a Windows Desktop Application using VC++ in Visual Studio .NET 2003 Academic Edition on my own. I have the longest experience with Objective-C, having been involved in app development since developers could first release apps on the iPhone.
+¡Hola! ¿Qué Tal? My name is Chifuyu Ara Belío ( アラベリーオ千冬 ), and I am a software developer with over 15 years of experience. I'm also an avid mountain climber, which I find both challenging and rewarding. I started programming when I took a programming course in college, where I learned the C and Java languages. In 2004, I created a Windows Desktop Application using VC++ in Visual Studio .NET 2003 Academic Edition on my own. I have the longest experience with Objective-C, having been involved in app development since developers could first release apps on the iPhone.
 
 ### 🔭 I’m currently working as
 a full-stack engineer on a project that involves developing both mobile and web applications aimed at streamlining business processes.
