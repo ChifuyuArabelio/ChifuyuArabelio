@@ -2,7 +2,13 @@
 [![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,emacs,flask,flutter,git,github,html,java,js,linux,mysql,nginx,ps,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,vim,visualstudio,vscode,ubuntu,wordpress,xd&theme=dark)](https://skillicons.dev)
 
 > [!NOTE]
-> and `Objective-C MRC/ARC`, `Win32API`.
+> and `Objective-C MRC/ARC`, `Win32API`.   
+> 
+> ![](https://komarev.com/ghpvc/?username=ChifuyuArabelio&color=blue&style=flat&label=count:+int+=+)
+
+## Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChifuyuArabelio&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contribution
 
