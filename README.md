@@ -1,5 +1,5 @@
 ## Skillicons
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,emacs,flask,flutter,git,github,html,java,js,linux,mysql,nginx,ps,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,vim,visualstudio,vscode,ubuntu,wordpress,xd&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,fastapi,flask,flutter,git,github,html,java,js,laravel,linux,mysql,nginx,ps,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,unity,vim,visualstudio,vscode,wordpress,xd&theme=dark)](https://skillicons.dev)
 
 > [!NOTE]
 > and `Objective-C MRC/ARC`, `Win32API`.   
