@@ -12,7 +12,7 @@
 
 ## Badges
 
-<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/MEdhU3NIbmdKT1lybW1jNkhKNHcvUT09"><img src="img/generate_ai_passport.png" width="100px" height="100px"></a>
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/MEdhU3NIbmdKT1lybW1jNkhKNHcvUT09"><img src="img/generate_ai_passport.png" width="80px" height="80px"></a>
 
 ## Contribution
 
