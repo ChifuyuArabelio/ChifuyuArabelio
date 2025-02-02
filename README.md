@@ -3,8 +3,6 @@
 
 > [!NOTE]
 > and `Objective-C MRC/ARC`, `Win32API`.   
-> 
-> ![](https://komarev.com/ghpvc/?username=ChifuyuArabelio&color=blue&style=flat&label=count:+int+=+)
 
 ## Trophy
 
