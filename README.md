@@ -1,16 +1,17 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChifuyuArabelio/ChifuyuArabelio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChifuyuArabelio/ChifuyuArabelio/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/ChifuyuArabelio/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 ## Skillicons
 
 [![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,fastapi,flask,flutter,git,github,html,java,js,laravel,linux,mysql,nginx,ps,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,unity,vim,visualstudio,vscode,wordpress,xd&theme=dark)](https://skillicons.dev)
 
 > [!NOTE]
 > and `Objective-C MRC/ARC`, `Win32API`.   
+
+## Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChifuyuArabelio/ChifuyuArabelio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChifuyuArabelio/ChifuyuArabelio/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/ChifuyuArabelio/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Trophy
 
