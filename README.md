@@ -1,4 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChifuyuArabelio/ChifuyuArabelio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChifuyuArabelio/ChifuyuArabelio/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/ChifuyuArabelio/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ## Skillicons
+
 [![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,androidstudio,apple,atom,bash,bitbucket,c,cs,cpp,css,dart,docker,dotnet,eclipse,elasticsearch,fastapi,flask,flutter,git,github,html,java,js,laravel,linux,mysql,nginx,ps,php,phpstorm,postgres,pycharm,py,redis,sqlite,sublime,swift,tailwind,unity,vim,visualstudio,vscode,wordpress,xd&theme=dark)](https://skillicons.dev)
 
 > [!NOTE]
@@ -15,11 +23,3 @@
 ## Contribution
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChifuyuArabelio&bg_color=0e1015&color=9298a0&line=6bd063&point=ffffff&area_color=2e6b37&hide_title=true&area=true&days=31)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChifuyuArabelio/ChifuyuArabelio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChifuyuArabelio/ChifuyuArabelio/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/{github_user_name}/ChifuyuArabelio/output/github-contribution-grid-snake.svg">
-</picture>
